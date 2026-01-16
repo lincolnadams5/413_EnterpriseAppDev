@@ -1,0 +1,15 @@
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\bin\Debug\net10.0\VideoWalkthrough_M3.exe
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\bin\Debug\net10.0\VideoWalkthrough_M3.deps.json
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\bin\Debug\net10.0\VideoWalkthrough_M3.runtimeconfig.json
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\bin\Debug\net10.0\VideoWalkthrough_M3.dll
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\bin\Debug\net10.0\VideoWalkthrough_M3.pdb
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.AssemblyInfo.cs
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.sourcelink.json
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.dll
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\refint\VideoWalkthrough_M3.dll
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.pdb
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\VideoWalkthrough_M3.genruntimeconfig.cache
+C:\Users\linco\Desktop\GitHub\413_EnterpriseAppDev\Mission_3\VideoWalkthrough_M3\obj\Debug\net10.0\ref\VideoWalkthrough_M3.dll

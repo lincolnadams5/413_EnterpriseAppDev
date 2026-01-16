@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linco\\Desktop\\GitHub\\413_EnterpriseAppDev\\Mission_3\\VideoWalkthrough_M3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19316C59-5AD8-4EBA-A2CA-FEC716B8D99E}|VideoWalkthrough_M3.csproj|c:\\users\\linco\\desktop\\github\\413_enterpriseappdev\\mission_3\\videowalkthrough_m3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19316C59-5AD8-4EBA-A2CA-FEC716B8D99E}|VideoWalkthrough_M3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19316C59-5AD8-4EBA-A2CA-FEC716B8D99E}|VideoWalkthrough_M3.csproj|c:\\users\\linco\\desktop\\github\\413_enterpriseappdev\\mission_3\\videowalkthrough_m3\\wordtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19316C59-5AD8-4EBA-A2CA-FEC716B8D99E}|VideoWalkthrough_M3.csproj|solutionrelative:wordtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordTools.cs",
+              "DocumentMoniker": "C:\\Users\\linco\\Desktop\\GitHub\\413_EnterpriseAppDev\\Mission_3\\VideoWalkthrough_M3\\WordTools.cs",
+              "RelativeDocumentMoniker": "WordTools.cs",
+              "ToolTip": "C:\\Users\\linco\\Desktop\\GitHub\\413_EnterpriseAppDev\\Mission_3\\VideoWalkthrough_M3\\WordTools.cs",
+              "RelativeToolTip": "WordTools.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA4wDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:59:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\linco\\Desktop\\GitHub\\413_EnterpriseAppDev\\Mission_3\\VideoWalkthrough_M3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\linco\\Desktop\\GitHub\\413_EnterpriseAppDev\\Mission_3\\VideoWalkthrough_M3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:55:04.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
