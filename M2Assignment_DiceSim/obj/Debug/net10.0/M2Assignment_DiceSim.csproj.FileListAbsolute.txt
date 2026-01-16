@@ -1,0 +1,14 @@
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.AssemblyInfoInputs.cache
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.AssemblyInfo.cs
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.csproj.CoreCompileInputs.cache
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\bin\Debug\net10.0\M2Assignment_DiceSim.exe
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\bin\Debug\net10.0\M2Assignment_DiceSim.deps.json
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\bin\Debug\net10.0\M2Assignment_DiceSim.runtimeconfig.json
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\bin\Debug\net10.0\M2Assignment_DiceSim.dll
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\bin\Debug\net10.0\M2Assignment_DiceSim.pdb
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.dll
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\refint\M2Assignment_DiceSim.dll
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.pdb
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\M2Assignment_DiceSim.genruntimeconfig.cache
+C:\Users\linco\Desktop\SWE\BYU\413_EnterpriseAppDev\M2Assignment_DiceSim\obj\Debug\net10.0\ref\M2Assignment_DiceSim.dll
